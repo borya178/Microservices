@@ -1,4 +1,5 @@
 # Microservices
+Запуск: docker-compose up
 
 ![2](https://user-images.githubusercontent.com/54949748/163925986-c25ab87b-73d4-49b2-a0fc-4b1196444ac0.png)
 
